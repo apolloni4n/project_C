@@ -1,0 +1,316 @@
+# depslib dependency file v1.0
+1611744327 source:/home/sophia/Bureau/maze/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"constantes.h"
+	"fonctions.h"
+	<SDL/SDL.h>
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<windows.h>
+
+1568752452 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1568752452 /usr/include/SDL/SDL_platform.h
+
+1568752452 /usr/include/SDL/begin_code.h
+
+1568752452 /usr/include/SDL/close_code.h
+
+1568752452 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_keysym.h
+
+1568752452 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1568752452 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568828545 /usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326664864 /home/sophia/Bureau/maze/SDL_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1568752452 /usr/include/SDL/SDL_types.h
+	"SDL_stdinc.h"
+
+1611187148 source:/home/sophia/Bureau/maze/generer.c
+
+1611188378 /home/sophia/Bureau/maze/menu.h
+
+1611188390 /home/sophia/Bureau/maze/menu_set.h
+
+1326602648 /home/sophia/Bureau/maze/SDL_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1611615446 /home/sophia/Bureau/maze/constantes.h
+
+1611616671 /home/sophia/Bureau/maze/fonctions.h
+
+1611617847 /home/sophia/Bureau/maze/fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"constantes.h"
+	<SDL/SDL.h>
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"fonctions.h"
+
+1613140875 source:/home/sophia/Bureau/Desktop/maze/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"constantes.h"
+	"fonctions.h"
+	<SDL/SDL_mixer.h>
+	<SDL/SDL.h>
+	"SDL_ttf.h"
+	<SDL_image.h>
+	"SDL_mixer.h"
+
+1611615446 /home/sophia/Bureau/Desktop/maze/constantes.h
+
+1613074036 /home/sophia/Bureau/Desktop/maze/fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL/SDL.h>
+
+1612860316 /home/sophia/Bureau/Desktop/maze/SDL_ttf.h
+	<SDL/SDL.h>
+	"begin_code.h"
+	"close_code.h"
+
+1326664864 /home/sophia/Bureau/Desktop/maze/SDL_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1612861050 /home/sophia/Bureau/Desktop/maze/begin_code.h
+
+1612861137 /home/sophia/Bureau/Desktop/maze/close_code.h
+
+1613164525 source:/home/sophia/maze/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"constantes.h"
+	"fonctions.h"
+	<SDL/SDL_mixer.h>
+	<SDL/SDL.h>
+	"SDL_ttf.h"
+	<SDL_image.h>
+	"SDL_mixer.h"
+
+1611615446 /home/sophia/maze/constantes.h
+
+1613164622 /home/sophia/maze/fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL/SDL.h>
+
+1612860316 /home/sophia/maze/SDL_ttf.h
+	<SDL/SDL.h>
+	"begin_code.h"
+	"close_code.h"
+
+1612861050 /home/sophia/maze/begin_code.h
+
+1612861137 /home/sophia/maze/close_code.h
+
+1326664864 /home/sophia/maze/SDL_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
