@@ -9,8 +9,13 @@ Welcome To The maze game ,made by two Cyber Security Students at National Higher
 <p align="center">
   <img src="https://github.com/ikramsofia/project_C/blob/main/rapport/play.png"/>
 </p>
+
+
 ## Built with
+
 - The C programming Language
 - SDL 1.2 
+
 ## How It Works
-you can download all the files & compile it on your own ,or consider running it on a linux machine as ./lab 
+
+You can either download all the files & compile it on your own ,or consider running it on a linux machine as ./lab 
