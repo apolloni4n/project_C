@@ -1,4 +1,4 @@
-# project_C:Le labyrinthe
+# project_C:  Le labyrinthe
 Project C of first year for School of computer science ENSIAS consisting on the automatic generation of a labyrinth or maze and giving the resolution using the recursive Backtracking algorithme.
 <p align="center">
   <img src="https://github.com/ikramsofia/project_C/blob/main/rapport/labyrintheproject.png"/>
@@ -44,8 +44,9 @@ The operating instructions of the game, contains information on the
 specifications.
 
 <p align="center">
-  <img src="https://github.com/ikramsofia/project_C/blob/main/Fichiers/images/ranking.jpeg"/>
+  <img src="https://github.com/ikramsofia/project_C/blob/main/Fichiers/images/dmenu.jpeg"/>
 </p>
+
 ### About:
 
 General information about the project
